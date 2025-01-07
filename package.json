@@ -1,5 +1,5 @@
 {
-  "name": "dicom-dimse-native",
+  "name": "@fyzks/dicom-dimse-native",
   "version": "2.4.6",
   "description": "native addon using DCMTK dicom toolkit",
   "main": "index.js",
